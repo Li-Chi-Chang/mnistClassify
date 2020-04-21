@@ -1,0 +1,5 @@
+.vscode
+# ignore all the dataset in the folder
+dataset/*
+# except the loading program
+!dataset/loadData.py
